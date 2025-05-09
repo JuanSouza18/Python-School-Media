@@ -1,0 +1,1 @@
+I made a system that asks for 3 grades and calculates the average, depending on the average it says whether the student passed, failed or had to retake the exam, I made this little project more to train and consolidate my knowledge in functions
